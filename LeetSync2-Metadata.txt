@@ -36,3 +36,4 @@ solutions/35-search-insert-position|Easy|1757529000000
 solutions/36-valid-sudoku|Medium|1757529000000
 solutions/37-sudoku-solver|Hard|1757529000000
 solutions/38-count-and-say|Medium|1757529000000
+solutions/39-combination-sum|Medium|1757529000000
