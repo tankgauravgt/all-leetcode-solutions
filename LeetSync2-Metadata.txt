@@ -103,3 +103,4 @@ solutions/102-binary-tree-level-order-traversal|Medium|1757529000000
 solutions/103-binary-tree-zigzag-level-order-traversal|Medium|1757529000000
 solutions/104-maximum-depth-of-binary-tree|Easy|1757529000000
 solutions/105-construct-binary-tree-from-preorder-and-inorder-traversal|Medium|1757529000000
+solutions/106-construct-binary-tree-from-inorder-and-postorder-traversal|Medium|1757529000000
