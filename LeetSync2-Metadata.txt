@@ -24,3 +24,4 @@ solutions/23-merge-k-sorted-lists|Hard|1757529000000
 solutions/24-swap-nodes-in-pairs|Medium|1757529000000
 solutions/25-reverse-nodes-in-k-group|Hard|1757529000000
 solutions/26-remove-duplicates-from-sorted-array|Easy|1757529000000
+solutions/27-remove-element|Easy|1757529000000
