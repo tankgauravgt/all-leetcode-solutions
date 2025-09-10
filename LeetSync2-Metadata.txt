@@ -55,3 +55,4 @@ solutions/54-spiral-matrix|Medium|1757529000000
 solutions/55-jump-game|Medium|1757529000000
 solutions/56-merge-intervals|Medium|1757529000000
 solutions/57-insert-interval|Medium|1757529000000
+solutions/58-length-of-last-word|Easy|1757529000000
