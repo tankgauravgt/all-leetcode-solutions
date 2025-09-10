@@ -81,3 +81,4 @@ solutions/80-remove-duplicates-from-sorted-array-ii|Medium|1757529000000
 solutions/81-search-in-rotated-sorted-array-ii|Medium|1757529000000
 solutions/82-remove-duplicates-from-sorted-list-ii|Medium|1757529000000
 solutions/83-remove-duplicates-from-sorted-list|Easy|1757529000000
+solutions/84-largest-rectangle-in-histogram|Hard|1757529000000
