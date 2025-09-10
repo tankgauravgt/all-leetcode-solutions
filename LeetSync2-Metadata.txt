@@ -2,3 +2,4 @@ solutions/1-two-sum|Easy|1757529000000
 solutions/2-add-two-numbers|Medium|1757529000000
 solutions/3-longest-substring-without-repeating-characters|Medium|1757529000000
 solutions/4-median-of-two-sorted-arrays|Hard|1757529000000
+solutions/5-longest-palindromic-substring|Medium|1757529000000
