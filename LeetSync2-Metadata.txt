@@ -66,3 +66,4 @@ solutions/65-valid-number|Hard|1757529000000
 solutions/66-plus-one|Easy|1757529000000
 solutions/67-add-binary|Easy|1757529000000
 solutions/68-text-justification|Hard|1757529000000
+solutions/69-sqrtx|Easy|1757529000000
