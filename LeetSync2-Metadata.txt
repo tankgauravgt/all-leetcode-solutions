@@ -85,3 +85,4 @@ solutions/84-largest-rectangle-in-histogram|Hard|1757529000000
 solutions/85-maximal-rectangle|Hard|1757529000000
 solutions/86-partition-list|Medium|1757529000000
 solutions/87-scramble-string|Hard|1757529000000
+solutions/88-merge-sorted-array|Easy|1757529000000
