@@ -78,3 +78,4 @@ solutions/77-combinations|Medium|1757529000000
 solutions/78-subsets|Medium|1757529000000
 solutions/79-word-search|Medium|1757529000000
 solutions/80-remove-duplicates-from-sorted-array-ii|Medium|1757529000000
+solutions/81-search-in-rotated-sorted-array-ii|Medium|1757529000000
