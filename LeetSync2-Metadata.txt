@@ -46,3 +46,4 @@ solutions/45-jump-game-ii|Medium|1757529000000
 solutions/46-permutations|Medium|1757529000000
 solutions/47-permutations-ii|Medium|1757529000000
 solutions/48-rotate-image|Medium|1757529000000
+solutions/49-group-anagrams|Medium|1757529000000
