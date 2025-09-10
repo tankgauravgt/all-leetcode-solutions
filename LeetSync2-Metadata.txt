@@ -41,3 +41,4 @@ solutions/41-first-missing-positive|Hard|1757529000000
 solutions/40-combination-sum-ii|Medium|1757529000000
 solutions/42-trapping-rain-water|Hard|1757529000000
 solutions/43-multiply-strings|Medium|1757529000000
+solutions/44-wildcard-matching|Hard|1757529000000
