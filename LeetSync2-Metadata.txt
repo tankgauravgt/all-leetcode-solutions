@@ -68,3 +68,4 @@ solutions/67-add-binary|Easy|1757529000000
 solutions/68-text-justification|Hard|1757529000000
 solutions/69-sqrtx|Easy|1757529000000
 solutions/70-climbing-stairs|Easy|1757529000000
+solutions/71-simplify-path|Medium|1757529000000
