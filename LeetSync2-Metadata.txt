@@ -18,3 +18,4 @@ solutions/17-letter-combinations-of-a-phone-number|Medium|1757529000000
 solutions/18-4sum|Medium|1757529000000
 solutions/19-remove-nth-node-from-end-of-list|Medium|1757529000000
 solutions/20-valid-parentheses|Easy|1757529000000
+solutions/21-merge-two-sorted-lists|Easy|1757529000000
