@@ -39,3 +39,4 @@ solutions/38-count-and-say|Medium|1757529000000
 solutions/39-combination-sum|Medium|1757529000000
 solutions/41-first-missing-positive|Hard|1757529000000
 solutions/40-combination-sum-ii|Medium|1757529000000
+solutions/42-trapping-rain-water|Hard|1757529000000
