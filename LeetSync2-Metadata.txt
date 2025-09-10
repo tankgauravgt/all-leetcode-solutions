@@ -7,3 +7,4 @@ solutions/6-zigzag-conversion|Medium|1757529000000
 solutions/7-reverse-integer|Medium|1757529000000
 solutions/8-string-to-integer-atoi|Medium|1757529000000
 solutions/9-palindrome-number|Easy|1757529000000
+solutions/10-regular-expression-matching|Hard|1757529000000
