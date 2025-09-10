@@ -12,3 +12,4 @@ solutions/11-container-with-most-water|Medium|1757529000000
 solutions/12-integer-to-roman|Medium|1757529000000
 solutions/13-roman-to-integer|Easy|1757529000000
 solutions/14-longest-common-prefix|Easy|1757529000000
+solutions/15-3sum|Medium|1757529000000
