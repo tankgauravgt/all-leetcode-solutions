@@ -101,3 +101,4 @@ solutions/100-same-tree|Easy|1757529000000
 solutions/101-symmetric-tree|Easy|1757529000000
 solutions/102-binary-tree-level-order-traversal|Medium|1757529000000
 solutions/103-binary-tree-zigzag-level-order-traversal|Medium|1757529000000
+solutions/104-maximum-depth-of-binary-tree|Easy|1757529000000
