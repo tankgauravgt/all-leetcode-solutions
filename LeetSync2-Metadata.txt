@@ -53,3 +53,4 @@ solutions/52-n-queens-ii|Hard|1757529000000
 solutions/53-maximum-subarray|Medium|1757529000000
 solutions/54-spiral-matrix|Medium|1757529000000
 solutions/55-jump-game|Medium|1757529000000
+solutions/56-merge-intervals|Medium|1757529000000
