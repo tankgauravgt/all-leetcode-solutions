@@ -29,3 +29,4 @@ solutions/28-find-the-index-of-the-first-occurrence-in-a-string|Easy|17575290000
 solutions/29-divide-two-integers|Medium|1757529000000
 solutions/31-next-permutation|Medium|1757529000000
 solutions/32-longest-valid-parentheses|Hard|1757529000000
+solutions/30-substring-with-concatenation-of-all-words|Hard|1757529000000
