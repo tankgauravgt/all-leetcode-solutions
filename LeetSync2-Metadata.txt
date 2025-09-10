@@ -59,3 +59,4 @@ solutions/58-length-of-last-word|Easy|1757529000000
 solutions/59-spiral-matrix-ii|Medium|1757529000000
 solutions/60-permutation-sequence|Hard|1757529000000
 solutions/61-rotate-list|Medium|1757529000000
+solutions/62-unique-paths|Medium|1757529000000
