@@ -26,3 +26,4 @@ solutions/25-reverse-nodes-in-k-group|Hard|1757529000000
 solutions/26-remove-duplicates-from-sorted-array|Easy|1757529000000
 solutions/27-remove-element|Easy|1757529000000
 solutions/28-find-the-index-of-the-first-occurrence-in-a-string|Easy|1757529000000
+solutions/29-divide-two-integers|Medium|1757529000000
