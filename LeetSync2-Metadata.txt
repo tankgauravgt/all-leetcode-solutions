@@ -75,3 +75,4 @@ solutions/74-search-a-2d-matrix|Medium|1757529000000
 solutions/75-sort-colors|Medium|1757529000000
 solutions/76-minimum-window-substring|Hard|1757529000000
 solutions/77-combinations|Medium|1757529000000
+solutions/78-subsets|Medium|1757529000000
