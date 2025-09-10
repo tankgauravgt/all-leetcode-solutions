@@ -64,3 +64,4 @@ solutions/63-unique-paths-ii|Medium|1757529000000
 solutions/64-minimum-path-sum|Medium|1757529000000
 solutions/65-valid-number|Hard|1757529000000
 solutions/66-plus-one|Easy|1757529000000
+solutions/67-add-binary|Easy|1757529000000
