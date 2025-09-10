@@ -16,3 +16,4 @@ solutions/15-3sum|Medium|1757529000000
 solutions/16-3sum-closest|Medium|1757529000000
 solutions/17-letter-combinations-of-a-phone-number|Medium|1757529000000
 solutions/18-4sum|Medium|1757529000000
+solutions/19-remove-nth-node-from-end-of-list|Medium|1757529000000
