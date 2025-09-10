@@ -50,3 +50,4 @@ solutions/49-group-anagrams|Medium|1757529000000
 solutions/50-powx-n|Medium|1757529000000
 solutions/51-n-queens|Hard|1757529000000
 solutions/52-n-queens-ii|Hard|1757529000000
+solutions/53-maximum-subarray|Medium|1757529000000
