@@ -71,3 +71,4 @@ solutions/70-climbing-stairs|Easy|1757529000000
 solutions/71-simplify-path|Medium|1757529000000
 solutions/72-edit-distance|Medium|1757529000000
 solutions/73-set-matrix-zeroes|Medium|1757529000000
+solutions/74-search-a-2d-matrix|Medium|1757529000000
