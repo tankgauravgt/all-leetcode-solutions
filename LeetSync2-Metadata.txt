@@ -61,3 +61,4 @@ solutions/60-permutation-sequence|Hard|1757529000000
 solutions/61-rotate-list|Medium|1757529000000
 solutions/62-unique-paths|Medium|1757529000000
 solutions/63-unique-paths-ii|Medium|1757529000000
+solutions/64-minimum-path-sum|Medium|1757529000000
