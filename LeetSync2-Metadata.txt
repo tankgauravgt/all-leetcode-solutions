@@ -31,3 +31,4 @@ solutions/31-next-permutation|Medium|1757529000000
 solutions/32-longest-valid-parentheses|Hard|1757529000000
 solutions/30-substring-with-concatenation-of-all-words|Hard|1757529000000
 solutions/33-search-in-rotated-sorted-array|Medium|1757529000000
+solutions/34-find-first-and-last-position-of-element-in-sorted-array|Medium|1757529000000
