@@ -109,3 +109,4 @@ solutions/108-convert-sorted-array-to-binary-search-tree|Easy|1758652200000
 solutions/109-convert-sorted-list-to-binary-search-tree|Medium|1758652200000
 solutions/110-balanced-binary-tree|Easy|1758652200000
 solutions/111-minimum-depth-of-binary-tree|Easy|1758652200000
+solutions/112-path-sum|Easy|1758652200000
