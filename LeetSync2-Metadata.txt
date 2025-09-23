@@ -118,3 +118,4 @@ solutions/117-populating-next-right-pointers-in-each-node-ii|Medium|175865220000
 solutions/118-pascals-triangle|Easy|1758652200000
 solutions/119-pascals-triangle-ii|Easy|1758652200000
 solutions/120-triangle|Medium|1758652200000
+solutions/121-best-time-to-buy-and-sell-stock|Easy|1758652200000
