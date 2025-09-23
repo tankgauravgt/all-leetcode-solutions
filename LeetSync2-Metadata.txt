@@ -115,3 +115,4 @@ solutions/114-flatten-binary-tree-to-linked-list|Medium|1758652200000
 solutions/115-distinct-subsequences|Hard|1758652200000
 solutions/116-populating-next-right-pointers-in-each-node|Medium|1758652200000
 solutions/117-populating-next-right-pointers-in-each-node-ii|Medium|1758652200000
+solutions/118-pascals-triangle|Easy|1758652200000
