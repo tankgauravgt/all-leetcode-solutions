@@ -105,3 +105,4 @@ solutions/104-maximum-depth-of-binary-tree|Easy|1757529000000
 solutions/105-construct-binary-tree-from-preorder-and-inorder-traversal|Medium|1757529000000
 solutions/106-construct-binary-tree-from-inorder-and-postorder-traversal|Medium|1757529000000
 solutions/107-binary-tree-level-order-traversal-ii|Medium|1757529000000
+solutions/108-convert-sorted-array-to-binary-search-tree|Easy|1758652200000
