@@ -123,3 +123,4 @@ solutions/122-best-time-to-buy-and-sell-stock-ii|Medium|1758652200000
 solutions/123-best-time-to-buy-and-sell-stock-iii|Hard|1758652200000
 solutions/188-best-time-to-buy-and-sell-stock-iv|Hard|1758652200000
 solutions/124-binary-tree-maximum-path-sum|Hard|1758652200000
+solutions/125-valid-palindrome|Easy|1758652200000
