@@ -5,5 +5,5 @@ class Solution:
             if target - n not in rec:
                 rec[n] = ix
                 continue
-            return [ix, rec[target - n]]
+            return [rec[target - n], ix]
         return [-1, -1]
